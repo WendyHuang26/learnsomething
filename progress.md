@@ -33,7 +33,7 @@ Table to keep track of all progress on internship project! <br />
 | [Aria Hoesley](https://github.com/mochi26)                         |||||||
 | [Ryan Poon](https://github.com/ryanp8)                             |||||||
 | [Brennan Benson](https://github.com/brennanb2025)                  |||||||
-
+| [Wendy Huang](https://github.com/WendyHuang26/learnsomething)      |||||||
 
 
 # Team Progress Tracker (By Steps)
