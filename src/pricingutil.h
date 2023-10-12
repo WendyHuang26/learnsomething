@@ -5,7 +5,6 @@
 #ifndef LEARNSOMETHING_PRICINGUTIL_H
 #define LEARNSOMETHING_PRICINGUTIL_H
 
-// price util
 class PricingUtil {
   public:
     PricingUtil();
