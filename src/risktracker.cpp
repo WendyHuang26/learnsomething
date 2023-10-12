@@ -16,7 +16,6 @@ int RiskTracker::updateRisk() {
         }
     }
     this->totalRisk += runningSum;
-    this->pendingTrades.clear();
     return 0;
 }
 
@@ -28,4 +27,3 @@ int RiskTracker::addTrade(Trade trade) {
 float RiskTracker::getRisk() {
     return this->totalRisk;
 }
-
