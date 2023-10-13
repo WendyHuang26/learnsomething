@@ -58,7 +58,6 @@ class TestOptimizedCode(unittest.TestCase):
 # Benchmark the code
 if __name__ == "__main__":
     unittest.main(exit=False)
-    
     benchmark_code = "optimizedCode()"
     setup_code = "from __main__ import optimizedCode"
 
